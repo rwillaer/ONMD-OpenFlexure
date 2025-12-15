@@ -1,7 +1,0 @@
-numpy
-opencv-python
-matplotlib
-pillow
-pandas
-scipy
-scikit-image
