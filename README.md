@@ -32,6 +32,18 @@ This folder contains analysis scripts for ONMD-OpenFlexure.
 Dependencies are listed in `requirements.txt`. Some workflows may require `ffmpeg`
 for video conversion (see the manuals in `documentation/`).
 
+### Precompiled Windows executable
+
+A standalone Windows executable of the PyONMD analysis software
+(`PyONMD_Ana_02.exe`) is provided for users who do not wish to install
+Python dependencies.
+
+Due to file size limitations, the executable is hosted externally:
+- VUB SharePoint (public link): <PASTE LINK HERE>
+
+The full source code is available in this repository.
+
+
 ## Repository structure
 - `software/` – acquisition and analysis scripts  
 - `documentation/` – user manual and setup guides  
