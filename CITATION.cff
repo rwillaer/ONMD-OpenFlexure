@@ -5,6 +5,15 @@ message: "If you use this software, please cite the associated Nature Methods ar
 license: MIT
 url: "https://github.com/ronniewillaert/ONMD-OpenFlexure"
 
+related-identifiers:
+  - identifier: "https://zenodo.org/records/17940783"
+    relation: isSupplementTo
+    type: url
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17940783"
+
 authors:
   - family-names: Willaert
     given-names: Ronnie
