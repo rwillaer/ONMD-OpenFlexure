@@ -1,4 +1,16 @@
 cff-version: 1.2.0
+
+title: "ONMD-OpenFlexure: Optical Nanomotion Detection with the OpenFlexure Microscope"
+message: "If you use this software, please cite the associated Nature Methods article."
+license: MIT
+url: "https://github.com/ronniewillaert/ONMD-OpenFlexure"
+
+authors:
+  - family-names: Willaert
+    given-names: Ronnie
+  - family-names: Kasas
+    given-names: Sandor
+
 preferred-citation:
   type: article
   title: "Automated optical nanomotion detection enables low-cost rapid antimicrobial testing"
@@ -14,8 +26,5 @@ preferred-citation:
     - family-names: Willaert
       given-names: Ronnie
     - family-names: Kasas
-      given-names: Sandor
-  journal: "Nature Methods"
-  year: 2025
-  doi: "TBD"
-url: "https://github.com/ronniewillaert/ONMD-OpenFlexure"
+      given-names: S
+
