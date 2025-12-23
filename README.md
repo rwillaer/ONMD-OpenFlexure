@@ -50,6 +50,10 @@ https://zenodo.org/records/17940783
 The full source code, documentation, and example datasets are available
 in this repository.
 
+## Demonstration videos
+
+- Sample preparation (MP4): documentation/videos/sample_preparation_movie.mp4
+- Example analysis videos (MP4): examples/videos/
 
 ## Repository structure
 - `software/` – acquisition and analysis scripts  
