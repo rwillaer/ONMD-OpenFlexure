@@ -1,3 +1,7 @@
 # Example videos
 
-Small example movies used in the manual for demonstrating analysis workflows.
+This folder contains small example movies used in the user manual to demonstrate
+the ONMD analysis workflow.
+
+These videos are illustrative only and are not the full datasets used to generate
+the results reported in the manuscript.
